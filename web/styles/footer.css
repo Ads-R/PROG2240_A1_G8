@@ -1,3 +1,6 @@
-h1.footer {
-    color: green;
+div.footer {
+    border-top: solid;
+    border-top-color: yellow;
+    text-align: right;
+    margin-top: 15px;
 }

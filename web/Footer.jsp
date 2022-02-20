@@ -12,6 +12,9 @@
         <link rel="stylesheet" href="styles/footer.css" type="text/css" />
     </head>
     <body>
-        <h1 class="footer">Footer</h1>
+        <div class="footer">
+            <p>&copy; Copyright 2022 Max Carere & Adriel Roque</p>
+        </div>
+
     </body>
 </html>
